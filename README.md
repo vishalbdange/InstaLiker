@@ -6,9 +6,8 @@
 
 #git clone 
 
-# create config.json file and add data in the following format
-
-#{
+#create config.json file and add data in the following format
+{
     "user" : "<Instagram_user_name>",
     "pwd" : "<password_here>",
     url : "hhtps://www.instagram.com"
