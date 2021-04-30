@@ -1,7 +1,7 @@
 #InstaLiker
 
 #Instagram Liker Using Puppeteer.js
-#Automation which Likes Specified Number of pages on Instagram of a specified person 
+#Automation which Likes Specified Number of pages on Instagram 
 
 #Usage
 
